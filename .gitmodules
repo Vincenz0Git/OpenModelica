@@ -13,3 +13,5 @@
 [submodule "OMSens_Qt"]
 	path = OMSens_Qt
 	url = https://github.com/OpenModelica/OMSens_Qt.git
+[submodule "OMSimulator/3rdParty"]
+	branch = patch/osx_arm64
